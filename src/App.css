@@ -1,0 +1,96 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+main {
+  margin-top: 50px;
+}
+
+.header {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+input {
+  display: block;
+  margin: 50px auto;
+  width: 40%;
+  height: 40px;
+  border: 1px solid grey;
+  background-color: #f8efef;
+  border-radius: 10px;
+  padding: 0 20px;
+}
+
+input::placeholder {
+  color: gray;
+  padding-left: 20px;
+  font-size: 14px;
+}
+
+.emoji-list {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.symbol-and-name {
+  display: flex;
+  gap: 15px;
+  align-items: center;
+  margin-bottom: 10px;
+  height: 30px;
+  padding: 5px;
+  border-radius: 10px;
+}
+
+.symbol-and-name h2 {
+  font-size: 20px;
+}
+
+.symbol-and-name:hover {
+  background-color: #f8efef;
+  border: 1px solid gray;
+}
+
+.symbol {
+  text-align: center;
+  width: 25px;
+}
+
+.empty {
+  color: red;
+  margin-top: 30px;
+  font-size: 20px;
+}
+
+footer {
+  width: 100%;
+  padding: 30px;
+  text-align: center;
+}
+
+footer span {
+  color: blue;
+  padding-left: 5px;
+}
