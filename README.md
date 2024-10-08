@@ -1,6 +1,6 @@
 # React Emoji Search
 
-## Resume
+## Summary
 
 Creation of the React (+ Vite.js) responsive Front-End Search Emoji using a JSON file.
 
@@ -52,7 +52,7 @@ Integrated development environment used: Visual Studio Code
 
   deployment of the site on Netlify (https://docs.netlify.com/)
 
-- To see the code : git@github.com:pricilliaedou/react-search-emoji.git
+- To see the code : https://github.com/pricilliaedou/react-search-emoji
 
 ## Demo
 
