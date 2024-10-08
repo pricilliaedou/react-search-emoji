@@ -18,8 +18,8 @@ Integrated development environment used: Visual Studio Code
 
 - Initializing the React project with vite.js :
 
-1. yarn create vite React-Pokemon-Front-End --template react
-2. cd React-Pokemon-Front-End
+1. yarn create vite react-search-emoji --template react
+2. cd react-search-emoji
 3. yarn (install dependencies listed in package.json)
 4. yarn dev (project launch)
 
@@ -40,7 +40,6 @@ Integrated development environment used: Visual Studio Code
 ### Libraries
 
 - **React**
-- **React Router** : adds navigation to a React site.
 - **Vite.js** : compiler (bundler): bundles multiple source files, such as JavaScript, CSS and other file types, into a single file optimized for production.
 
 ### Tools
@@ -53,7 +52,7 @@ Integrated development environment used: Visual Studio Code
 
   deployment of the site on Netlify (https://docs.netlify.com/)
 
-- To see code : git@github.com:pricilliaedou/react-search-emoji.git
+- To see the code : git@github.com:pricilliaedou/react-search-emoji.git
 
 ## Demo
 
