@@ -49,11 +49,11 @@ Integrated development environment used: Visual Studio Code
 
 ## Links
 
-- To view the site : https://react-search-emojis.netlify.app/
+- To see the site : https://react-search-emojis.netlify.app/
 
   deployment of the site on Netlify (https://docs.netlify.com/)
 
-- Pour visualiser le code : git@github.com:pricilliaedou/react-search-emoji.git
+- To see code : git@github.com:pricilliaedou/react-search-emoji.git
 
 ## Demo
 
